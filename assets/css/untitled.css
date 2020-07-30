@@ -1,0 +1,9 @@
+a:active, a:focus, a:hover {
+  color: #34313F;
+}
+
+a:hover {
+  color: #34313F;
+  text-decoration: underline;
+}
+
